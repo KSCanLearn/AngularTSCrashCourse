@@ -1,8 +1,6 @@
-# Angulardemo
+# Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
-
-Youtube refer from: https://www.youtube.com/watch?v=f7BJFTEbc10
 
 ## Development server
 
